@@ -21,17 +21,13 @@ Here are some ideas to get you started:
 
 Sou um desenvolvedor entusiasmado, apaixonado por construir aplicativos web inovadores e de alto desempenho. Tenho experiência em:
 
-- Desenvolvimento em Next.js
-- Utilização de TypeScript
-- Conhecimentos básicos em bancos de dados
+- Desenvolvimento em ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+- Utilização de ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+- Conhecimentos em HTML5 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- Estilização com ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
 
 ## Repositórios e Commits
 
-Aqui está um diagrama resumido dos meus repositórios e commits:
-| Repositório          | Total de Commits |
-|----------------------|------------------|
-| [Repositório 1](link1) | [Número de commits1] |
-| [Repositório 2](link2) | [Número de commits2] |
-| [Repositório 3](link3) | [Número de commits3] |
-| [Outros Repositórios](link4) | [Número de commits4] |
+
 
