@@ -26,6 +26,8 @@ Sou um desenvolvedor entusiasmado, apaixonado por construir aplicativos web inov
 - Conhecimentos em HTML5 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - Estilização com ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+- ok
+
 
 ## Repositórios e Commits
 
